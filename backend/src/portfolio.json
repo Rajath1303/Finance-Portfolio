@@ -1,0 +1,32 @@
+{
+    "data" : [
+    { "particulars": "HDFC Bank", "exchange_code": "NSE", "purchase_price": 1490, "qty": 50, "portfolio_percentage": 5, "symbol": "HDFCBANK", "sector": "Financial Sector" },
+    { "particulars": "Bajaj Finance", "exchange_code": "NSE", "purchase_price": 6466, "qty": 15, "portfolio_percentage": 6, "symbol": "BAJFINANCE", "sector": "Financial Sector" },
+    { "particulars": "ICICI Bank", "exchange_code": "NSE", "purchase_price": 780, "qty": 84, "portfolio_percentage": 4 , "symbol": "ICICIBANK", "sector": "Financial Sector"},
+    { "particulars": "Bajaj Housing", "exchange_code": "NSE", "purchase_price": 130, "qty": 504, "portfolio_percentage": 4 , "symbol": "BAJAJHFL", "sector": "Financial Sector"},
+    { "particulars": "Affle India", "exchange_code": "NSE", "purchase_price": 1151, "qty": 50, "portfolio_percentage": 4, "symbol": "AFFLE", "sector": "Tech Sector" },
+    { "particulars": "LTI Mindtree", "exchange_code": "NSE", "purchase_price": 4775, "qty": 16, "portfolio_percentage": 5, "symbol": "LTM" , "sector": "Tech Sector"},
+    { "particulars": "KPIT Tech", "exchange_code": "NSE", "purchase_price": 672, "qty": 61, "portfolio_percentage": 3, "symbol": "KPITTECH", "sector": "Tech Sector" },
+    { "particulars": "Tata Tech", "exchange_code": "NSE", "purchase_price": 1072, "qty": 63, "portfolio_percentage": 4, "symbol": "TATATECH", "sector": "Tech Sector"},
+    { "particulars": "BLS E-Services", "exchange_code": "NSE", "purchase_price": 232, "qty": 191, "portfolio_percentage": 3, "symbol": "BLSE", "sector": "Tech Sector" },
+    { "particulars": "Tanla", "exchange_code": "NSE", "purchase_price": 1134, "qty": 45, "portfolio_percentage": 3, "symbol": "TANLA", "sector": "Tech Sector" },
+    { "particulars": "Dmart", "exchange_code": "NSE", "purchase_price": 3777, "qty": 27, "portfolio_percentage": 7, "symbol": "DMART", "sector": "Consumer" },
+    { "particulars": "Tata Consumer", "exchange_code": "NSE", "purchase_price": 845, "qty": 90, "portfolio_percentage": 5, "symbol": "TATACONSUM", "sector": "Consumer" },
+    { "particulars": "Pidilite", "exchange_code": "NSE", "purchase_price": 2376, "qty": 36, "portfolio_percentage": 6, "symbol": "PIDILITIND", "sector": "Consumer"},
+    { "particulars": "Tata Power", "exchange_code": "NSE", "purchase_price": 224, "qty": 225, "portfolio_percentage": 3, "symbol": "TATAPOWER", "sector": "Power" },
+    { "particulars": "KPI Green", "exchange_code": "NSE", "purchase_price": 875, "qty": 50, "portfolio_percentage": 3, "symbol": "KPIGREEN", "sector": "Power" },
+    { "particulars": "Suzlon", "exchange_code": "NSE", "purchase_price": 44, "qty": 450, "portfolio_percentage": 1, "symbol": "SUZLON", "sector": "Power" },
+    { "particulars": "Gensol", "exchange_code": "NSE", "purchase_price": 998, "qty": 45, "portfolio_percentage": 3, "symbol": "GENSOL", "sector": "Power" },
+    { "particulars": "Hariom Pipes", "exchange_code": "NSE", "purchase_price": 580, "qty": 60, "portfolio_percentage": 2, "symbol": "HARIOMPIPE", "sector": "Pipe Sector" },
+    { "particulars": "Astral", "exchange_code": "NSE", "purchase_price": 1517, "qty": 56, "portfolio_percentage": 6, "symbol": "ASTRAL", "sector": "Pipe Sector" },
+    { "particulars": "Polycab", "exchange_code": "NSE", "purchase_price": 2818, "qty": 28, "portfolio_percentage": 5, "symbol": "POLYCAB", "sector": "Pipe Sector" },
+    { "particulars": "Clean Science", "exchange_code": "NSE", "purchase_price": 1610, "qty": 32, "portfolio_percentage": 3, "symbol": "CLEAN", "sector": "Others" },
+    { "particulars": "Deepak Nitrite", "exchange_code": "NSE", "purchase_price": 2248, "qty": 27, "portfolio_percentage": 4, "symbol": "DEEPAKNTR", "sector": "Others" },
+    { "particulars": "Fine Organic", "exchange_code": "NSE", "purchase_price": 4284, "qty": 16, "portfolio_percentage": 4, "symbol": "FINEORG", "sector": "Others" },
+    { "particulars": "Gravita", "exchange_code": "NSE", "purchase_price": 2037, "qty": 8, "portfolio_percentage": 1, "symbol": "GRAVITA", "sector": "Others" },
+    { "particulars": "SBI Life", "exchange_code": "NSE", "purchase_price": 1197, "qty": 49, "portfolio_percentage": 4, "symbol": "SBILIFE", "sector": "Others" },
+    { "particulars": "Infy", "exchange_code": "NSE", "purchase_price": 1647, "qty": 36, "portfolio_percentage": 4, "symbol": "INFY", "sector": "Others" },
+    { "particulars": "Happeist Mind", "exchange_code": "NSE", "purchase_price": 1103, "qty": 45, "portfolio_percentage": 3, "symbol": "HAPPSTMNDS", "sector": "Others" },
+    { "particulars": "Easemytrip", "exchange_code": "NSE", "purchase_price": 20, "qty": 1332, "portfolio_percentage": 2, "symbol": "EASEMYTRIP", "sector": "Others" }
+]
+}
